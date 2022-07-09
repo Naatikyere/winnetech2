@@ -1,0 +1,16 @@
+{
+  "name": "project5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "node-sass main.scss style.css"
+  },
+  "keywords": [],
+  "author": "Naatikyere Prosper",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "node-sass": "^7.0.1"
+  }
+}
