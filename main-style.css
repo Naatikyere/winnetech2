@@ -117,3 +117,34 @@ nav{
 footer{
     background-color: #7d7de8;
 }
+
+/*fashion section*/
+.madamimg{
+    height: 80vh;
+    margin: 0 auto;
+    width: 70vw;
+}
+.about_courses{
+    background-color: rgba(232, 245, 56, 0.749);
+}
+.madam-info{
+    background-color: #95a2b3;
+}
+.patterning{
+    color: #c0c4c9;
+}
+.fashioncourse ul li{
+  text-transform: capitalize;
+  list-style:inside;
+  font-weight: 500;
+}
+.fashion-block{
+    height: 50vh;
+    width: 100%;
+    padding: o!important;
+}
+.last_part{
+    background-color: rgba(232, 245, 56, 0.749);
+    text-transform: uppercase;
+    font-size: 3em!important;
+}
