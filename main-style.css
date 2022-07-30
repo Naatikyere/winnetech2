@@ -148,3 +148,15 @@ footer{
     text-transform: uppercase;
     font-size: 3em!important;
 }
+/* Catering Department */
+
+.about-course_catering{
+    background-color: rgb(90, 239, 31);
+}
+.fashion_head{
+text-transform: uppercase;
+font-weight: 500;
+}
+.ro{
+    height: 47vh;
+}
