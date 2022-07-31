@@ -122,7 +122,7 @@ footer{
 .madamimg{
     height: 80vh;
     margin: 0 auto;
-    width: 70vw;
+    width: 80vw;
 }
 .about_courses{
     background-color: rgba(232, 245, 56, 0.749);
@@ -159,4 +159,10 @@ font-weight: 500;
 }
 .ro{
     height: 47vh;
+}
+.welding{
+    background-color: hsl(185, 80%, 68%);
+}
+.textingG{
+    text-transform: uppercase;
 }
