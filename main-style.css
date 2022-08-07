@@ -153,6 +153,9 @@ footer{
 .about-course_catering{
     background-color: rgb(90, 239, 31);
 }
+.textingG{
+    background: linear-gradient(to left,#0500ff,#00ffdd);
+}
 .fashion_head{
 text-transform: uppercase;
 font-weight: 500;
@@ -165,4 +168,9 @@ font-weight: 500;
 }
 .textingG{
     text-transform: uppercase;
+}
+.mvm{
+    width: 96vw;
+    height: 80vh;
+    border-radius: 2em;
 }
